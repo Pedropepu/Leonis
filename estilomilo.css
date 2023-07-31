@@ -1,0 +1,220 @@
+p#def{
+    color: white;
+    font-size: 15pt;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    font-weight: bold;
+    top: 145px;
+    left: 215px;
+}
+
+td#at{
+    color: rgb(255, 62, 3);
+    border: 3px solid #ffffff;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+
+p#vida{
+    margin-top: 33px;
+    position: absolute;
+    left: 350px;
+    color: rgb(255, 62, 3);
+}
+
+p#sanidade{
+    margin-top: 50px;
+    position: absolute;
+    left: 350px;
+    color: rgb(255, 62, 3);
+}
+
+table#atr {
+    border: 2px solid #FFFFFF;
+    font-size: 18pt;
+    margin-top: 240px;
+    font-family: comic-sans;
+    position:absolute;
+    left: 213px;
+}
+
+p#bv {
+    margin-top: 2px;
+    left: 210px;
+    color: white;
+    position: absolute;
+    font-size: 18pt;
+}
+
+img#roda{
+    height: 400px;
+    position: absolute;
+    top: 70px;
+    left: 700px;
+    margin-top: 2px;
+}
+
+img#ocul{
+    position: absolute;
+    margin-top: 30px;
+    left: 213px;
+    height: 200px;
+}
+
+img#fundo{
+    top: 0;
+    margin-bottom: 0;
+    position: absolute;
+    left: 190px;
+    height: 1200px;
+    box-shadow: 3px 3px 4px black;
+    width: 1000px;
+
+}
+
+/*div#interface{
+    width: 800px;
+    background-image: url(roll.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center center;
+    margin-top: 0;
+    margin-botton: 0px;
+}*/
+
+body{
+    background-color: grey;
+}
+
+table#habi{
+    position: absolute;
+    border: 2px solid #FFFFFF;
+    top: 480px;
+    left: 640px;
+}
+
+td#hab{
+    color: rgb(255, 62, 3);
+    border: 3px solid #ffffff;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 18pt;
+    text-align: justify;
+}
+
+table#vid{
+    position: absolute;
+    border: 2px solid black;
+    top: 145px;
+    left: 245px;
+    height: 64px;
+    width: 170px;
+}
+
+td#vi{
+    border: 2px solid black;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 13pt;
+    color: #FFFFFF;
+
+}
+
+td#h{
+    color: rgb(255, 62, 3);
+    border: 3px solid #ffffff;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 18pt;
+    text-align: center;
+}
+
+td#a{
+    color: rgb(255, 62, 3);
+    border: 3px solid #ffffff;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 18pt;
+    text-align: center;
+}
+
+p#pe{
+    color: white;
+    font-size: 15pt;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    font-weight: bold;
+    left: 420px;
+    top: 145px;
+}
+
+table#arma{
+    position: absolute;
+    top: 170px;
+    left: 455px;
+    border: 2px solid #ffffff;
+}
+
+td#ar{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 62, 3);
+    font-weight: bold;
+    font-size: 15pt;
+    border: 3px solid #ffffff;
+}
+
+td#arm{
+    text-align: center;
+    font-size: 15pt;
+    font-weight: bold;
+    color: rgb(255, 62, 3);
+    border: 3px solid #ffffff;
+}
+
+p#agi{
+    position: absolute;
+    top: 80px;
+    left: 895px;
+    color: #ffffff;
+    font-size: 19pt;
+    font-weight: bold;
+}
+
+p#vig{
+    position: absolute;
+    top: 333px;
+    left: 980px;
+    color: #ffffff;
+    font-size: 19pt;
+    font-weight: bold;
+
+}
+
+p#for{
+    position: absolute;
+    top: 170px;
+    left: 763px;
+    color: #ffffff;
+    font-size: 19pt;
+    font-weight: bold;
+}
+
+p#int{
+    position: absolute;
+    top: 170px;
+    left: 1025px;
+    color: #ffffff;
+    font-size: 19pt;
+    font-weight: bold;
+}
+
+p#pod{
+    position: absolute;
+    top: 333px;
+    left: 803px;
+    color: #ffffff;
+    font-size: 19pt;
+    font-weight: bold;
+}
+
